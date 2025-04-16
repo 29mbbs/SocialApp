@@ -21,7 +21,7 @@
 ## 📚 Технологии
 - Android Studio
 - Kotlin / Java
-- Firebase (если использовал)
+- Firebase 
 - Material Design
 
 ---
